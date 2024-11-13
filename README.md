@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/deepaksingh2002](https://github.com/deepaksingh2002)
 
-- 💬 Ask me about **Web Development, MEARN**
+- 💬 Ask me about **Web Development, MERN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
