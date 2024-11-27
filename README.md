@@ -74,18 +74,18 @@
 ---
 
 ### GitHub Stats:
-<img align="right" width="450" height="580" src="https://images.pexels.com/photos/6424587/pexels-photo-6424587.jpeg?auto=compress&cs=tinysrgb&w=600" alt="">
 
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=deepaksingh2002&show_icons=true&theme=radical" alt="Deepak's GitHub Stats"/>
 </p>
 
+
+
+<p align="right">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepaksingh2002&theme=radical" alt="GitHub Streak"/>
+</p>
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepaksingh2002&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-</p>
-
-<p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepaksingh2002&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
