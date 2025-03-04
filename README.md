@@ -58,6 +58,13 @@
 
 ---
 
+### 🌍 Web Preview:
+🚀 Check out one of my live projects here:  
+🔗 **[Live Demo](https://blogging-site-ecru.vercel.app/)**  
+💻 **Tech Used:** JavaScript, React, Appwrite
+
+---
+
 ### Fun Facts:
 - 🌱 Currently exploring **Node.js** and **Web Development**.
 - 💬 Always open to discussions about **MERN Stack**, **Web Development**, and **Cloud Technologies**!
@@ -66,4 +73,3 @@
 
 ### About Me:
 I love learning new technologies and building exciting projects! 🚀
-
