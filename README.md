@@ -66,7 +66,7 @@
 ---
 
 ### Fun Facts:
-- 🌱 Currently exploring **Node.js** and **Web Development**.
+
 - 💬 Always open to discussions about **MERN Stack**, **Web Development**, and **Cloud Technologies**!
 
 ---
