@@ -7,7 +7,7 @@
     <img src="https://komarev.com/ghpvc/?username=deepaksingh2002&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🌟 I’m currently learning **Node.js**
+- 🌟 I’m currently learning and working **MERN stack**
 - 👨‍💻 All of my projects are available on **[GitHub](https://github.com/deepaksingh2002)**
 - 💬 Ask me about **Web Development** and **MERN Stack**
 
