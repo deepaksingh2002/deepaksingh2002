@@ -60,8 +60,10 @@
 
 ### 🌍 Web Preview:
 🚀 Check out one of my live projects here:  
-🔗 **[Live Demo](https://blogging-site-ecru.vercel.app/)**  
+🔗 **[Live Demo](https://blogging-site-ecru.vercel.app/)** 
 💻 **Tech Used:** JavaScript, React, Appwrite
+🔗 **[Live Demo](https://full-stack-bloging-web.vercel.app/)**
+💻 **Tech Used:** Node.js, Express.js, Mongodb...
 
 ---
 
