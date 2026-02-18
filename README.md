@@ -1,78 +1,143 @@
-<h1 align="center">Hi 👋, I'm Deepak Singh</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<!-- ================= MODERN HEADER ================= -->
 
-<img src="https://www.seasiainfotech.com/assests/images/python-new/python-banner.png" style="width: 400px;" align="right" alt="developer_image">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1428,50:1E3A5F,100:1E40AF&height=260&section=header&text=Deepak%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&fontWeight=700"/>
+</div>
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=deepaksingh2002&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%8E%AF;MERN+%7C+Next.js+Engineer;Building+Scalable+Web+Apps;Hackathon+Team+Lead+%F0%9F%A4%96" />
+</div>
 
-- 🌟 I’m currently learning and working with **MERN stack**
-- 👨‍💻 All of my projects are available on **[GitHub](https://github.com/deepaksingh2002)**
-- 💬 Ask me about **Web Development** and **MERN Stack**
-
----
-
-### Connect with me:
-
-<p align="left">
-    <a href="https://linkedin.com/in/deepaksingh2002" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
-    </a>
-    <a href="mailto:deepaksingh2002@gmail.com" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="Gmail" height="40" width="40"/>
-    </a>
-    <a href="https://github.com/deepaksingh2002" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="40" width="40"/>
-    </a>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Available%20for%20Work-✅-blue?style=for-the-badge&logo=handshake&logoColor=white&color=1E40AF" />
+</div>
 
 ---
 
-### Languages and Tools:
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-</p>
+<div align="center">
+  ### 👨‍💻 Full Stack Developer | MERN Stack Specialist
+  
+  **🚀 Building scalable web applications with modern tech stacks**
+  
+  Passionate about creating production-ready solutions with clean code architecture. Experienced in full-stack development, API design, and leading hackathon teams to success.
+</div>
 
 ---
 
-### GitHub Stats:
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=deepaksingh2002&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-<p align="right">
-    <img src="https://streak-stats.demolab.com?user=deepaksingh2002&theme=radical" alt="GitHub Streak"/>
-</p>
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepaksingh2002&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-</p>
+## 🌐 Let's Connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/deepaksingh2002">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+  </a>
+  <a href="mailto:deepaksingh2002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+  </a>
+  <a href="https://github.com/deepaksingh2002">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="35"/>
+  </a>
+</div>
 
 ---
 
-### 🌍 Web Preview:
-🚀 Check out one of my live projects here:  
-🔗 **[Live Demo](https://blogging-site-ecru.vercel.app/)** 
-💻 **Tech Used:** JavaScript, React, Appwrite
+## 🛠️ Tech Stack
 
-🔗 **[Live Demo](https://full-stack-bloging-web.vercel.app/)**
-💻 **Tech Used:** Node.js, Express.js, Mongodb...
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,express,mongodb,prisma,tailwind,framer,redux,git,vercel,docker" height="50"/>
+</div>
 
 ---
 
-### Fun Facts:
+## 🚀 Featured Projects
 
-- 💬 Always open to discussions about **MERN Stack**, **Web Development**, and **Cloud Technologies**!
+### 📚 **eLib** – Digital Library Platform
+[![eLib](https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://elib-client-mocha.vercel.app/)
+
+**Next.js • Node.js • Express • MongoDB • JWT • REST APIs**
+
+<div align="center">
+  
+**✨ Features:**
+- 🔐 JWT Authentication & Role-Based Access
+- 📚 Complete Book CRUD Operations
+- ⚡ Optimized API Performance
+- 🏗️ Scalable Architecture Patterns
+  
+**📊 Impact:** Production-ready full-stack system with enterprise-grade security
+  
+</div>
 
 ---
 
-### About Me:
-I love learning new technologies and building exciting projects! 🚀
+### 📝 **BlogHub** – Full Stack Blog Platform
+[![BlogHub](https://img.shields.io/badge/Live%20Demo-🚀-green?style=for-the-badge&logo=vercel&logoColor=white)](https://full-stack-bloging-web.vercel.app/)
+
+**React • Node.js • Express • MongoDB**
+
+<div align="center">
+  
+**✨ Features:**
+- 🔑 Secure User Authentication
+- ✍️ Rich Text Editor Integration
+- 💾 Real-time Data Persistence
+- ⚙️ RESTful API Architecture
+  
+**📊 Impact:** Complete MERN stack implementation with modern auth flows
+  
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=deepaksingh2002&theme=radical&hide_border=true&background=0D1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepaksingh2002&theme=radical" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepaksingh2002&theme=react-blue&hide_border=true&bg_color=0D1117&color=3B82F6&line=58A6FF&point=1F6FEB"/>
+</div>
+
+---
+
+## 🎯 2026 Roadmap
+
+<div align="center">
+
+| 🥇 Priority | 📋 Goal | ✅ Status |
+|-------------|---------|----------|
+| **System Design** | Master DSA + System Design | In Progress |
+| **Open Source** | 5+ meaningful contributions | Planning |
+| **Next Level** | Senior Full Stack Role | 🎯 Target |
+| **Scale** | Build Global SaaS Product | Vision |
+
+</div>
+
+---
+
+<div align="center">
+  
+**💼 Open to Collaboration • Remote • Full-time Opportunities**
+  
+**📧** deepaksingh2002@gmail.com
+  
+</div>
+
+---
+
+<!-- Modern Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:1E40AF,100:1E1B4B&height=140&section=footer&fontSize=20&fontColor=ffffff&fontWeight=700"/>
+</div>
+
+<div align="center">
+  <small>Made with ❤️ using GitHub & Vercel</small>
+</div>
