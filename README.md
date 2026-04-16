@@ -70,7 +70,7 @@
 ---
 
 ### 📝 **BlogHub** – Full Stack Blog Platform
-[![BlogHub](https://img.shields.io/badge/Live%20Demo-🚀-green?style=for-the-badge&logo=vercel&logoColor=white)](https://full-stack-bloging-web.vercel.app/)
+[![BlogHub](https://img.shields.io/badge/Live%20Demo-🚀-green?style=for-the-badge&logo=vercel&logoColor=white)](https://bloghub-web.vercel.app/)
 
 **React • Node.js • Express • MongoDB**
 
