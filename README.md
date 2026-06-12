@@ -51,7 +51,7 @@
 ## 🚀 Featured Projects
 
 ### 📚 **eLib** – Digital Library Platform
-[![eLib](https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://elib-client-mocha.vercel.app/)
+[![eLib](https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://e-library-rust.vercel.app/)
 
 **Next.js • Node.js • Express • MongoDB • JWT • REST APIs**
 
