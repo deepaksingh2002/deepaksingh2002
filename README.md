@@ -111,14 +111,7 @@
 ## 🎯 2026 Roadmap
 
 <div align="center">
-
-| 🥇 Priority | 📋 Goal | ✅ Status |
-|-------------|---------|----------|
-| **System Design** | Master DSA + System Design | In Progress |
-| **Open Source** | 5+ meaningful contributions | Planning |
-| **Next Level** | Senior Full Stack Role | 🎯 Target |
-| **Scale** | Build Global SaaS Product | Vision |
-
+Inhance my skills and grow in Job 
 </div>
 
 ---
