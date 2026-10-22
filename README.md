@@ -15,8 +15,7 @@
 ---
 
 <div align="center">
-  ### 👨‍💻 Full Stack Developer | MERN Stack Specialist
-  
+  <h3>👨‍💻 Full Stack Developer | MERN Stack Specialist</h3>
   **🚀 Building scalable web applications with modern tech stacks**
   
   Passionate about creating production-ready solutions with clean code architecture. Experienced in full-stack development, API design, and leading hackathon teams to success.
@@ -38,6 +37,14 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="./resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-View%20PDF-1E40AF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="35"/>
+  </a>
+  <br/>
+  <sub>📄 Place <code>resume.pdf</code> in the repository root to enable this link.</sub>
+</div>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -50,40 +57,47 @@
 
 ## 🚀 Featured Projects
 
-### 📚 **eLib** – Digital Library Platform
-[![eLib](https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://e-library-rust.vercel.app/)
-
-**Next.js • Node.js • Express • MongoDB • JWT • REST APIs**
-
 <div align="center">
-  
-**✨ Features:**
-- 🔐 JWT Authentication & Role-Based Access
-- 📚 Complete Book CRUD Operations
-- ⚡ Optimized API Performance
-- 🏗️ Scalable Architecture Patterns
-  
-**📊 Impact:** Production-ready full-stack system with enterprise-grade security
-  
-</div>
-
----
-
-### 📝 **BlogHub** – Full Stack Blog Platform
-[![BlogHub](https://img.shields.io/badge/Live%20Demo-🚀-green?style=for-the-badge&logo=vercel&logoColor=white)](https://bloghub-web.vercel.app/)
-
-**React • Node.js • Express • MongoDB**
-
-<div align="center">
-  
-**✨ Features:**
-- 🔑 Secure User Authentication
-- ✍️ Rich Text Editor Integration
-- 💾 Real-time Data Persistence
-- ⚙️ RESTful API Architecture
-  
-**📊 Impact:** Complete MERN stack implementation with modern auth flows
-  
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">📚 eLib</h3>
+        <p align="center"><strong>Digital Library Platform</strong></p>
+        <p align="center">
+          <a href="https://e-library-rust.vercel.app/">
+            <img src="https://img.shields.io/badge/Live%20Demo-🚀-blue?style=for-the-badge&logo=vercel&logoColor=white" />
+          </a>
+        </p>
+        <p align="center"><strong>Next.js • Node.js • Express • MongoDB • JWT • REST APIs</strong></p>
+        <p><strong>✨ Features</strong></p>
+        <ul>
+          <li>🔐 JWT Authentication & Role-Based Access</li>
+          <li>📚 Complete Book CRUD Operations</li>
+          <li>⚡ Optimized API Performance</li>
+          <li>🏗️ Scalable Architecture Patterns</li>
+        </ul>
+        <p><strong>📊 Impact:</strong> Production-ready full-stack system with enterprise-grade security</p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">📝 BlogHub</h3>
+        <p align="center"><strong>Full Stack Blog Platform</strong></p>
+        <p align="center">
+          <a href="https://bloghub-web.vercel.app/">
+            <img src="https://img.shields.io/badge/Live%20Demo-🚀-green?style=for-the-badge&logo=vercel&logoColor=white" />
+          </a>
+        </p>
+        <p align="center"><strong>React • Node.js • Express • MongoDB</strong></p>
+        <p><strong>✨ Features</strong></p>
+        <ul>
+          <li>🔑 Secure User Authentication</li>
+          <li>✍️ Rich Text Editor Integration</li>
+          <li>💾 Real-time Data Persistence</li>
+          <li>⚙️ RESTful API Architecture</li>
+        </ul>
+        <p><strong>📊 Impact:</strong> Complete MERN stack implementation with modern auth flows</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -111,7 +125,7 @@
 ## 🎯 2026 Roadmap
 
 <div align="center">
-Inhance my skills and grow in Job 
+Enhance my skills and grow in my career.
 </div>
 
 ---
