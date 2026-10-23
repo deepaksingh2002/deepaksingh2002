@@ -11,7 +11,7 @@
   <a href="#journey"><img src="https://img.shields.io/badge/Journey-14171F?style=flat-square" alt="Journey" /></a>
   <a href="#resume"><img src="https://img.shields.io/badge/Resume-14171F?style=flat-square" alt="Resume" /></a>
   <a href="#contact"><img src="https://img.shields.io/badge/Contact-E5301F?style=flat-square" alt="Contact" /></a>
-  <a href="./Deepak_Singh_Resume.pdf"><img src="https://img.shields.io/badge/Download%20resume-PDF-E5301F?style=flat-square" alt="Download my resume" /></a>
+  <a href="mailto:deepaksingh2002@gmail.com?subject=Resume%20request"><img src="https://img.shields.io/badge/Request%20resume-E5301F?style=flat-square" alt="Request my resume by email" /></a>
 </div>
 
 <!-- After you deploy the portfolio, add:
@@ -84,7 +84,7 @@ From marketing to code. I started in marketing, moved into data, then settled on
 ## Resume
 
 <div align="center">
-  <a href="./Deepak_Singh_Resume.pdf"><img src="https://img.shields.io/badge/Download%20resume-PDF-E5301F?style=for-the-badge&labelColor=14171F" alt="Download my resume as a PDF" /></a>
+  <a href="mailto:deepaksingh2002@gmail.com?subject=Resume%20request"><img src="https://img.shields.io/badge/Request%20resume-E5301F?style=for-the-badge&labelColor=14171F" alt="Request my resume by email" /></a>
 </div>
 
 <details>
